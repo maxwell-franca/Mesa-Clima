@@ -1,0 +1,11 @@
+# Arquivos de build e do editor
+build/
+*.bin
+*.elf
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Por precaução, caso você crie um arquivo de credenciais local
+secrets.h
